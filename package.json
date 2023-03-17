@@ -1,0 +1,10 @@
+{
+  "name": "ComfyUI-Electron",
+  "version": "0.0.0",
+  "main": "main.js",
+  "author": "Moikapy <moikapy@takolabs.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
