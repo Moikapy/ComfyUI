@@ -5,3 +5,9 @@ models/checkpoints
 models/vae
 models/embeddings
 models/loras
+node_modules/
+input/
+
+models/
+
+temp/
